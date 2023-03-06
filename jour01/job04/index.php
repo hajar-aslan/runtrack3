@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1> JavaScript Job 4</h1>
+	<script src="script.js"></script>
 	
 </body>
 </html>
